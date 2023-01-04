@@ -1,0 +1,17 @@
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\bin\Release\net6.0-windows\Unity_Engine_Settings.exe
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\bin\Release\net6.0-windows\Unity_Engine_Settings.deps.json
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\bin\Release\net6.0-windows\Unity_Engine_Settings.runtimeconfig.json
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\bin\Release\net6.0-windows\Unity_Engine_Settings.dll
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\bin\Release\net6.0-windows\Unity_Engine_Settings.pdb
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\obj\Release\net6.0-windows\Unity_Engine_Settings.csproj.AssemblyReference.cache
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\obj\Release\net6.0-windows\Unity_Engine_Settings.Form1.resources
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\obj\Release\net6.0-windows\Unity_Engine_Settings.csproj.GenerateResource.cache
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\obj\Release\net6.0-windows\Unity_Engine_Settings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\obj\Release\net6.0-windows\Unity_Engine_Settings.AssemblyInfoInputs.cache
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\obj\Release\net6.0-windows\Unity_Engine_Settings.AssemblyInfo.cs
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\obj\Release\net6.0-windows\Unity_Engine_Settings.csproj.CoreCompileInputs.cache
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\obj\Release\net6.0-windows\Unity_Engine_Settings.dll
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\obj\Release\net6.0-windows\refint\Unity_Engine_Settings.dll
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\obj\Release\net6.0-windows\Unity_Engine_Settings.pdb
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\obj\Release\net6.0-windows\Unity_Engine_Settings.genruntimeconfig.cache
+C:\Users\pegas\OneDrive\Masaüstü\Space Shooter Game\Unity-Template\Unity_Engine_Settings\Unity_Engine_Settings\obj\Release\net6.0-windows\ref\Unity_Engine_Settings.dll
